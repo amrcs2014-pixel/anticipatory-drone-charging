@@ -1,0 +1,14 @@
+Instance('AMMAN75_R5', customers=75, stations=5) | scale 0.25 battery 100.0 pads 1 ugv 1 dod 0.5 | 330 days, 330 to plan with 11 workers
+planned 330 days in 615s -> F:\new work level1\paper A7\code\results\schedules_AMMAN75_R5_s0.25_E100_p1_u1_d0.5_i20_e10.json
+executed in 7s
+
+rule              cost   +-95%  late sat-loss stations  swaps  sw-wait decisions >1 option overrides
+regret         2767.66   19.07  0.14    18.69      3.6    4.5     18.6       8.1       7.6       0.0
+nearest        2767.75   12.31  0.08    18.58      6.5    1.7      6.8       8.1       7.8       0.0
+rollout-air    2743.61   11.20  0.05    18.63      1.4    6.7     69.9       8.1       7.6       2.7
+rollout-all    2738.23    6.77  0.02    18.61      1.9    6.1     46.5       8.1       7.6       2.1
+
+Paired difference against 'regret' (same schedule, same day):
+  nearest      mean     +0.08 (+0.0%)  95% CI [-16.10, +16.26]  better on 30, worse on 297, equal on 3  -> not significant
+  rollout-air  mean    -24.05 (-0.9%)  95% CI [-37.45, -10.65]  better on 302, worse on 8, equal on 20  -> significant at 5%
+  rollout-all  mean    -29.44 (-1.1%)  95% CI [-47.00, -11.88]  better on 289, worse on 0, equal on 41  -> significant at 5%

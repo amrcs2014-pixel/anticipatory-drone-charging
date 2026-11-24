@@ -1,0 +1,14 @@
+Instance('RC75_R4', customers=75, stations=4) | scale 0.25 battery 100.0 pads 1 ugv 2 dod 0.5 | 30 days, 30 to plan with 5 workers
+planned 30 days in 325s -> F:\new work level1\paper A7\code\results\schedules_RC75_R4_s0.25_E100_p1_u2_d0.5_i20_e10.json
+executed in 5s
+
+rule              cost   +-95%  late sat-loss stations  swaps  sw-wait decisions >1 option overrides
+regret         3239.42  150.05  2.23    14.26     13.5   19.2    144.7      32.6      28.5       0.0
+nearest        3151.78  135.86  1.70    13.69     16.0   16.7    110.6      32.7      28.6       0.0
+rollout-air    3262.89  198.36  2.33    16.30     10.2   22.5    324.7      32.7      27.1       7.6
+rollout-all    2991.36   93.77  1.00    13.70     11.4   21.4    173.5      32.7      28.3       5.3
+
+Paired difference against 'regret' (same schedule, same day):
+  nearest      mean    -87.64 (-2.7%)  95% CI [-208.38, +33.10]  better on 13, worse on 17, equal on 0  -> not significant
+  rollout-air  mean    +23.47 (+0.7%)  95% CI [-165.67, +212.61]  better on 17, worse on 13, equal on 0  -> not significant
+  rollout-all  mean   -248.05 (-7.7%)  95% CI [-347.44, -148.67]  better on 30, worse on 0, equal on 0  -> significant at 5%

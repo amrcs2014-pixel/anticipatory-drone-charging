@@ -1,0 +1,15 @@
+PASS  test_alns_serves_everyone_and_improves
+PASS  test_anticipatory_nests_regret
+PASS  test_charging_is_triggered_and_shared_pads_queue
+PASS  test_dynamic_day_serves_everyone_after_release
+PASS  test_learned_chooser_with_zero_estimate_is_the_regret_rule
+PASS  test_overload_and_lateness_are_penalised
+PASS  test_paper_regret_example
+PASS  test_reproduces_two_gurobi_optima_from_the_paper
+PASS  test_rollout_with_full_schedule_never_loses_to_its_base_rule
+PASS  test_rules_are_compared_on_the_same_schedule
+PASS  test_satisfaction
+PASS  test_single_route_by_hand
+PASS  test_ugv_swap_is_available
+
+13/13 passed

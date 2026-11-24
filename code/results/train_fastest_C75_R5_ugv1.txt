@@ -1,0 +1,42 @@
+Instance('C75_R5', customers=75, stations=5) | ugv 1 | base rule fastest | train 210 days, margin chosen on 30, test 60 held-out days, 5 model fits
+collected 6795 labelled alternatives in 9s: 24% better than the base choice, 76% worse
+  round 1: +3423 rows from the learned policy's days
+  fit 0: margin 0, saving on validation days +61.1
+  fit 1: margin 0, saving on validation days +67.3
+  fit 2: margin 0, saving on validation days +60.0
+  fit 3: margin 0, saving on validation days +63.2
+  fit 4: margin 0, saving on validation days +61.3
+
+Held-out test, 60 days (learned = mean over 5 fits)
+rule              cost   +-95%  late
+regret         3795.88  200.34  4.42
+nearest        3570.45  181.41  3.27
+fastest        3434.53  183.24  2.45
+learned        3291.95  151.35  1.78
+rollout-all    3085.50   90.25  0.83
+
+Paired differences:
+  learned - fastest      mean  -142.58 ( -4.2%)  95% CI [ -243.60,   -41.56]  better 36, worse 13  -> significant at 5%
+  learned - nearest      mean  -278.50 ( -7.8%)  95% CI [ -391.66,  -165.34]  better 35, worse 22  -> significant at 5%
+  learned - regret       mean  -503.93 (-13.3%)  95% CI [ -672.50,  -335.35]  better 43, worse 16  -> significant at 5%
+  nearest - regret       mean  -225.42 ( -5.9%)  95% CI [ -389.15,   -61.69]  better 29, worse 27  -> significant at 5%
+  rollout-all - fastest  mean  -349.03 (-10.2%)  95% CI [ -497.33,  -200.72]  better 59, worse 0  -> significant at 5%
+
+Each fit separately, learned minus its base rule:
+  fit 0:  -132.61  [ -228.92,   -36.29]  changed 1.5 decisions a day
+  fit 1:  -136.35  [ -232.17,   -40.53]  changed 1.4 decisions a day
+  fit 2:  -139.46  [ -247.13,   -31.79]  changed 1.5 decisions a day
+  fit 3:  -172.18  [ -295.17,   -49.20]  changed 1.5 decisions a day
+  fit 4:  -132.31  [ -240.36,   -24.26]  changed 1.5 decisions a day
+
+Share of the rollout-all gain over the fastest rule recovered: 41% (142.6 of 349.0)
+
+Most important inputs (fit 0, share of total gain):
+  time_minus_best           27.6%
+  wait                      20.3%
+  detour_km                  8.7%
+  detour_minus_base          6.6%
+  time_minus_base            6.4%
+  time_cost                  5.2%
+  time_of_day                5.1%
+  drone_energy               2.4%

@@ -1,0 +1,2 @@
+done AMMAN75_R5 ugv 1 dod 0.5 scale 0.25
+done AMMAN150_R5 ugv 1 dod 0.5 scale 0.25

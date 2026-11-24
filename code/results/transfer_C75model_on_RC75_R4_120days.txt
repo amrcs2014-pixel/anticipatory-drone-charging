@@ -1,0 +1,4 @@
+RC75_R4   ugv 1 dod 0.5 scale 0.25 E 100 | late: regret  5.63, nearest  4.66, learned  2.69
+   learned - fastest:    -74.9 ( -2.1%) [ -131.5,   -18.3]*      learned - nearest:   -360.5 ( -9.3%) [ -436.3,  -284.8]*
+   learned - regret :   -551.1 (-13.5%) [ -645.7,  -456.4]*
+   ceiling - fastest:   -203.6 ( -5.6%) [ -264.5,  -142.8]*   recovered   37%

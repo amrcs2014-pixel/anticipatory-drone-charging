@@ -1,0 +1,48 @@
+C75_R5    ugv 1 dod 0.5 scale 0.25 E 100 | regret  3797.0 late  4.33 -> learned late  2.20
+   learned - regret :   -408.6 (-10.8%) [ -603.4,  -213.7]* worse on  8/30
+   learned - nearest:   -164.1 ( -4.3%) [ -307.6,   -20.5]* worse on 12/30
+   rollout - regret :   -606.3 (-16.0%) [ -804.7,  -407.9]* worse on  0/30   recovered   67%
+C75_R5    ugv 1 dod 0.25 scale 0.25 E 100 | regret  3771.0 late  4.13 -> learned late  1.87
+   learned - regret :   -433.2 (-11.5%) [ -624.1,  -242.3]* worse on 11/30
+   learned - nearest:   -132.3 ( -3.5%) [ -231.0,   -33.7]* worse on 17/30
+   rollout - regret :   -624.9 (-16.6%) [ -888.3,  -361.4]* worse on  0/30   recovered   69%
+C75_R5    ugv 1 dod 0.75 scale 0.25 E 100 | regret  3781.8 late  4.47 -> learned late  2.10
+   learned - regret :   -446.5 (-11.8%) [ -706.5,  -186.6]* worse on 14/30
+   learned - nearest:   -177.9 ( -4.7%) [ -357.8,    +1.9]  worse on 15/30
+   rollout - regret :   -633.7 (-16.8%) [ -886.2,  -381.2]* worse on  0/30   recovered   70%
+C75_R5    ugv 2 dod 0.5 scale 0.25 E 100 | regret  2963.3 late  1.23 -> learned late  0.70
+   learned - regret :    -94.2 ( -3.2%) [ -178.0,   -10.4]* worse on 19/30
+   learned - nearest:    -14.5 ( -0.5%) [  -95.6,   +66.6]  worse on 15/30
+   rollout - regret :   -173.5 ( -5.9%) [ -265.1,   -81.8]* worse on  0/30   recovered   54%
+C75_R3    ugv 1 dod 0.5 scale 0.25 E 100 | regret  3248.7 late  2.13 -> learned late  1.30
+   learned - regret :   -145.8 ( -4.5%) [ -265.9,   -25.6]* worse on 18/30
+   learned - nearest:    -23.1 ( -0.7%) [ -118.3,   +72.1]  worse on 17/30
+   rollout - regret :   -260.3 ( -8.0%) [ -397.0,  -123.6]* worse on  0/30   recovered   56%
+RC75_R4   ugv 1 dod 0.5 scale 0.25 E 100 | regret  4071.1 late  5.57 -> learned late  3.73
+   learned - regret :   -339.3 ( -8.3%) [ -526.7,  -151.9]* worse on  9/30
+   learned - nearest:   -146.8 ( -3.6%) [ -300.5,    +6.9]  worse on 15/30
+   rollout - regret :   -550.1 (-13.5%) [ -738.6,  -361.6]* worse on  0/30   recovered   62%
+RC75_R4   ugv 2 dod 0.5 scale 0.25 E 100 | regret  3239.4 late  2.23 -> learned late  1.47
+   learned - regret :   -139.3 ( -4.3%) [ -218.2,   -60.4]* worse on 14/30
+   learned - nearest:    -51.6 ( -1.6%) [ -166.2,   +62.9]  worse on 15/30
+   rollout - regret :   -248.1 ( -7.7%) [ -347.4,  -148.7]* worse on  0/30   recovered   56%
+R75_R3    ugv 1 dod 0.5 scale 0.25 E 100 | regret  2619.2 late  0.50 -> learned late  0.20
+   learned - regret :    -43.3 ( -1.7%) [  -83.4,    -3.3]* worse on 22/30
+   learned - nearest:    -17.2 ( -0.7%) [  -40.1,    +5.6]  worse on  8/30
+   rollout - regret :    -71.8 ( -2.7%) [ -111.4,   -32.2]* worse on  0/30   recovered   60%
+R75_R3    ugv 2 dod 0.5 scale 0.25 E 100 | regret  2529.6 late  0.50 -> learned late  0.17
+   learned - regret :    -56.6 ( -2.2%) [ -120.9,    +7.8]  worse on 20/30
+   learned - nearest:    -58.5 ( -2.3%) [ -107.1,   -10.0]* worse on  2/30
+   rollout - regret :    -82.2 ( -3.2%) [ -145.7,   -18.7]* worse on  0/30   recovered   69%
+R100_R4   ugv 1 dod 0.5 scale 0.25 E 100 | regret  3861.8 late  0.83 -> learned late  0.43
+   learned - regret :    -66.2 ( -1.7%) [ -111.7,   -20.8]* worse on 15/30
+   learned - nearest:    -33.6 ( -0.9%) [  -73.8,    +6.5]  worse on 13/30
+   rollout - regret :   -128.0 ( -3.3%) [ -188.4,   -67.6]* worse on  0/30   recovered   52%
+RC100_R5  ugv 1 dod 0.5 scale 0.25 E 100 | regret  6480.5 late 10.90 -> learned late  8.33
+   learned - regret :   -479.8 ( -7.4%) [ -774.3,  -185.4]* worse on 10/30
+   learned - nearest:   -349.1 ( -5.4%) [ -721.3,   +23.1]  worse on  9/30
+   rollout - regret :   -686.7 (-10.6%) [ -932.7,  -440.7]* worse on  0/30   recovered   70%
+C75_R5    ugv 1 dod 0.5 scale 0.1 E 45 | regret  2597.3 late  0.43 -> learned late  0.03
+   learned - regret :    -64.7 ( -2.5%) [ -193.4,   +64.0]  worse on 24/30
+   learned - nearest:    -56.4 ( -2.2%) [ -182.8,   +70.0]  worse on 21/30
+   rollout - regret :    -82.6 ( -3.2%) [ -209.8,   +44.6]  worse on  0/30   recovered   78%

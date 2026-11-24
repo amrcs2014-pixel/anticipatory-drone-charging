@@ -1,0 +1,19 @@
+RC100_R5 | days 0..99 | strongest wind in the flying window, m/s: median 5.4, max 9.2
+
+A. plans and charging rule without wind in the model (rule: fastest)
+   no wind  : cost   5675.8, late/day 6.69
+   with wind: cost   8697.0, late/day 18.22, battery ran out in flight 3.31 times a day, on 91 of 100 days (91%)
+
+B. wind-aware plans (wind at the start of the day, 10% reserve), 100 days
+   rule         cost late/day out in flight/day days hit no option/day stations  swaps wait min
+   regret     8996.7    19.82             0.090        9          4.36     25.1   21.7   1186.3
+   nearest    8758.8    18.64             0.100       10          4.35     25.1   21.6   1131.0
+   fastest    8615.4    17.83             0.090        9          4.36     26.9   20.0   1018.8
+   ceiling    8318.8    16.44             0.070        7          4.36     24.1   22.8   1230.0
+   learned    8358.0    16.53             0.100       10          4.36     27.2   19.8    923.0
+
+   paired differences in cost (same day, same plan, same wind):
+   fastest  - regret  :   -381.3 ( -4.2%) [ -490.3,  -272.3] significant; better on 62, worse on 25
+   fastest  - nearest :   -143.4 ( -1.6%) [ -268.7,   -18.1] significant; better on 51, worse on 40
+   ceiling  - fastest :   -296.6 ( -3.4%) [ -391.3,  -201.9] significant; better on 98, worse on 0
+   learned  - fastest :   -257.4 ( -3.0%) [ -362.1,  -152.6] significant; better on 29, worse on 2

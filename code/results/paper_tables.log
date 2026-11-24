@@ -1,0 +1,12 @@
+done C75_R5 ugv 1 dod 0.5 scale 0.25
+done C75_R5 ugv 1 dod 0.25 scale 0.25
+done C75_R5 ugv 1 dod 0.75 scale 0.25
+done C75_R5 ugv 2 dod 0.5 scale 0.25
+done C75_R3 ugv 1 dod 0.5 scale 0.25
+done RC75_R4 ugv 1 dod 0.5 scale 0.25
+done RC75_R4 ugv 2 dod 0.5 scale 0.25
+done RC100_R5 ugv 1 dod 0.5 scale 0.25
+done R75_R3 ugv 1 dod 0.5 scale 0.25
+done R75_R3 ugv 2 dod 0.5 scale 0.25
+done R100_R4 ugv 1 dod 0.5 scale 0.25
+done C75_R5 ugv 1 dod 0.5 scale 0.1

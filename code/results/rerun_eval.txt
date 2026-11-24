@@ -1,0 +1,12 @@
+C75_R5    ugv 1 dod 0.5 scale 0.25 E 100 | late: regret  4.97, nearest  3.97, learned  2.15
+   learned - fastest:    -87.3 ( -2.5%) [ -169.1,    -5.5]*      learned - nearest:   -338.7 ( -9.1%) [ -441.6,  -235.7]*
+   learned - regret :   -536.4 (-13.7%) [ -656.2,  -416.6]*
+   ceiling - fastest:   -319.7 ( -9.3%) [ -410.8,  -228.6]*   recovered   27%
+RC75_R4   ugv 1 dod 0.5 scale 0.25 E 100 | late: regret  5.63, nearest  4.66, learned  2.55
+   learned - fastest:   -110.2 ( -3.1%) [ -169.9,   -50.4]*      learned - nearest:   -395.8 (-10.2%) [ -468.7,  -323.0]*
+   learned - regret :   -586.4 (-14.4%) [ -677.1,  -495.6]*
+   ceiling - fastest:   -203.6 ( -5.6%) [ -264.5,  -142.8]*   recovered   54%
+RC100_R5  ugv 1 dod 0.5 scale 0.25 E 100 | late: regret 10.55, nearest  8.64, learned  5.15
+   learned - fastest:   -310.3 ( -5.5%) [ -458.8,  -161.7]*      learned - nearest:   -655.2 (-10.9%) [ -782.1,  -528.4]*
+   learned - regret :  -1040.0 (-16.2%) [-1226.7,  -853.3]*
+   ceiling - fastest:   -345.5 ( -6.1%) [ -446.8,  -244.1]*   recovered   90%

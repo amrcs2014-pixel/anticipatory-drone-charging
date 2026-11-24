@@ -1,0 +1,4 @@
+AMMAN75_R5 ugv 1 dod 0.5 scale 0.25 E 100 | late: regret  0.09, nearest  0.06, learned  0.05
+   learned - fastest:     -1.4 ( -0.0%) [  -10.3,    +7.5]       learned - nearest:     -3.0 ( -0.1%) [  -14.9,    +8.8] 
+   learned - regret :     +3.6 ( +0.1%) [   -6.7,   +13.9] 
+   ceiling - fastest:    -25.3 ( -0.9%) [  -39.1,   -11.5]*   recovered    5%

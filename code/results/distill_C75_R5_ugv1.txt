@@ -1,0 +1,44 @@
+Instance('C75_R5', customers=75, stations=5) | base rule nearest | 3448 alternatives seen on 210 training days, the learned policy switched to 448 of them (13.0%)
+
+Held-out test, 60 days.  nearest 3570.45, learned (fit 0) 3258.30
+  depth 2: cost  3346.34  against nearest  -224.11 [ -348.71,   -99.51]*  keeps  72% of the learned policy's gain, changes 3.1 decisions a day, 4 leaves
+  depth 3: cost  3209.86  against nearest  -360.59 [ -516.13,  -205.06]*  keeps 116% of the learned policy's gain, changes 3.0 decisions a day, 8 leaves
+  depth 4: cost  3307.22  against nearest  -263.24 [ -415.07,  -111.40]*  keeps  84% of the learned policy's gain, changes 3.5 decisions a day, 15 leaves
+
+Tree of depth 2 (class 1 = switch to this alternative):
+|--- base_is_ugv <= 0.5
+|   |--- detour_minus_base <= 2.2
+|   |   |--- class: 0
+|   |--- detour_minus_base >  2.2
+|   |   |--- class: 0
+|--- base_is_ugv >  0.5
+|   |--- time_minus_best <= 2.1
+|   |   |--- class: 1
+|   |--- time_minus_best >  2.1
+|   |   |--- class: 0
+
+
+Tree of depth 3 (class 1 = switch to this alternative):
+|--- base_is_ugv <= 0.5
+|   |--- detour_minus_base <= 2.2
+|   |   |--- slack_after <= 39.2
+|   |   |   |--- class: 0
+|   |   |--- slack_after >  39.2
+|   |   |   |--- class: 0
+|   |--- detour_minus_base >  2.2
+|   |   |--- base_time_cost <= 9.9
+|   |   |   |--- class: 0
+|   |   |--- base_time_cost >  9.9
+|   |   |   |--- class: 1
+|--- base_is_ugv >  0.5
+|   |--- time_minus_best <= 2.1
+|   |   |--- detour_minus_base <= 6.7
+|   |   |   |--- class: 1
+|   |   |--- detour_minus_base >  6.7
+|   |   |   |--- class: 0
+|   |--- time_minus_best >  2.1
+|   |   |--- recent_departures <= 0.5
+|   |   |   |--- class: 1
+|   |   |--- recent_departures >  0.5
+|   |   |   |--- class: 0
+

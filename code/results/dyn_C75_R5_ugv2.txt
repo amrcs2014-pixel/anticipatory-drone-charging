@@ -1,0 +1,26 @@
+Instance('C75_R5', customers=75, stations=5) | scale 0.25 battery 100.0 Wh pads 1 ugv 2 dod 0.5 | plan rule regret, 20 iterations per re-plan, benchmark 200 iterations, 10 seeds
+  seed 0 done (73s)
+  seed 1 done (145s)
+  seed 2 done (251s)
+  seed 3 done (329s)
+  seed 4 done (410s)
+  seed 5 done (493s)
+  seed 6 done (577s)
+  seed 7 done (677s)
+  seed 8 done (754s)
+  seed 9 done (822s)
+
+rule      dynamic cost   +-95%  late sat-loss stations  swaps  sw-wait | perfect-info   +-95%  late
+regret         2918.92  169.55   1.2    14.90      5.4   17.4     60.4 |      2642.47  169.72   0.7
+cost           2919.12  169.51   1.2    14.90      5.5   17.4     60.2 |      2642.38  169.80   0.7
+nearest        2886.51  177.28   0.8    14.39      7.3   15.6     36.9 |      2514.01  119.61   0.3
+
+Paired difference in dynamic cost against 'regret' (same schedule, same seed):
+  cost     mean     +0.20  95% CI [-0.25, +0.65]  cheaper on 0/10 days, tied on 9  -> not significant
+  nearest  mean    -32.40  95% CI [-254.45, +189.64]  cheaper on 3/10 days, tied on 0  -> not significant
+
+Value of information (dynamic minus perfect-information, paired by seed):
+  regret   mean   +276.44  95% CI [+96.48, +456.41]  = 10.5% of the benchmark cost
+  cost     mean   +276.74  95% CI [+96.78, +456.71]  = 10.5% of the benchmark cost
+  nearest  mean   +372.51  95% CI [+129.16, +615.86]  = 14.8% of the benchmark cost
+  (the dynamic schedule beat the perfect-information plan on 8 of 30 rule-days and was used as the benchmark there)

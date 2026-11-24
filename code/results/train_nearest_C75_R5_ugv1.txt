@@ -1,0 +1,40 @@
+Instance('C75_R5', customers=75, stations=5) | ugv 1 | base rule nearest | train 210 days, margin chosen on 30, test 60 held-out days, 5 model fits
+collected 6641 labelled alternatives in 8s: 20% better than the base choice, 80% worse
+  round 1: +3411 rows from the learned policy's days
+  fit 0: margin 0, saving on validation days +229.3
+  fit 1: margin 0, saving on validation days +228.8
+  fit 2: margin 0, saving on validation days +222.6
+  fit 3: margin 0, saving on validation days +230.4
+  fit 4: margin 0, saving on validation days +229.8
+
+Held-out test, 60 days (learned = mean over 5 fits)
+rule              cost   +-95%  late
+regret         3795.88  200.34  4.42
+nearest        3570.45  181.41  3.27
+learned        3279.45  134.36  1.74
+rollout-all    3106.84   97.21  0.97
+
+Paired differences:
+  learned - nearest      mean  -291.01 ( -8.2%)  95% CI [ -412.89,  -169.12]  better 34, worse 22  -> significant at 5%
+  learned - regret       mean  -516.43 (-13.6%)  95% CI [ -678.05,  -354.80]  better 45, worse 14  -> significant at 5%
+  nearest - regret       mean  -225.42 ( -5.9%)  95% CI [ -389.15,   -61.69]  better 29, worse 27  -> significant at 5%
+  rollout-all - nearest  mean  -463.61 (-13.0%)  95% CI [ -618.64,  -308.59]  better 57, worse 0  -> significant at 5%
+
+Each fit separately, learned - nearest:
+  fit 0:  -312.15  [ -453.73,  -170.57]  changed 2.1 decisions a day
+  fit 1:  -293.12  [ -406.37,  -179.86]  changed 2.1 decisions a day
+  fit 2:  -292.70  [ -432.47,  -152.93]  changed 2.2 decisions a day
+  fit 3:  -290.32  [ -432.86,  -147.77]  changed 2.2 decisions a day
+  fit 4:  -266.74  [ -375.82,  -157.66]  changed 2.0 decisions a day
+
+Share of the rollout-all gain over the nearest rule recovered: 63% (291.0 of 463.6)
+
+Most important inputs (fit 0, share of total gain):
+  wait                      25.4%
+  time_minus_best           18.7%
+  time_minus_base           16.9%
+  detour_minus_base          6.0%
+  detour_km                  5.5%
+  time_of_day                3.6%
+  drone_load                 3.2%
+  time_cost                  3.1%

@@ -1,0 +1,42 @@
+Instance('AMMAN75_R5', customers=75, stations=5) | ugv 1 | base rule fastest | train 200 days, margin chosen on 30, test 100 held-out days, 5 model fits
+collected 4169 labelled alternatives in 4s: 36% better than the base choice, 64% worse
+  round 1: +2101 rows from the learned policy's days
+  fit 0: margin 0, saving on validation days +11.4
+  fit 1: margin 0, saving on validation days +11.1
+  fit 2: margin 0, saving on validation days +11.9
+  fit 3: margin 0, saving on validation days +11.4
+  fit 4: margin 0, saving on validation days +11.8
+
+Held-out test, 100 days (learned = mean over 5 fits)
+rule              cost   +-95%  late
+regret         2751.98   16.49  0.09
+nearest        2758.62   17.13  0.06
+fastest        2756.95   16.20  0.07
+learned        2760.44   34.92  0.16
+rollout-all    2731.63   10.69  0.01
+
+Paired differences:
+  learned - fastest      mean    +3.49 ( +0.1%)  95% CI [  -25.33,   +32.31]  better 93, worse 7  -> not significant
+  learned - nearest      mean    +1.83 ( +0.1%)  95% CI [  -35.00,   +38.66]  better 95, worse 5  -> not significant
+  learned - regret       mean    +8.47 ( +0.3%)  95% CI [  -20.94,   +37.87]  better 73, worse 20  -> not significant
+  nearest - regret       mean    +6.64 ( +0.2%)  95% CI [   -3.88,   +17.16]  better 13, worse 86  -> not significant
+  rollout-all - fastest  mean   -25.32 ( -0.9%)  95% CI [  -39.15,   -11.49]  better 98, worse 0  -> significant at 5%
+
+Each fit separately, learned minus its base rule:
+  fit 0:    +6.32  [  -22.91,   +35.55]  changed 3.0 decisions a day
+  fit 1:    +2.41  [  -26.44,   +31.27]  changed 3.0 decisions a day
+  fit 2:    +2.14  [  -26.63,   +30.90]  changed 3.0 decisions a day
+  fit 3:    +4.25  [  -24.69,   +33.18]  changed 3.0 decisions a day
+  fit 4:    +2.34  [  -26.52,   +31.19]  changed 3.0 decisions a day
+
+Share of the rollout-all gain over the fastest rule recovered: -14% (-3.5 of 25.3)
+
+Most important inputs (fit 0, share of total gain):
+  drone_load                18.3%
+  weighted_score             9.0%
+  charger_busy               7.7%
+  time_minus_best            7.1%
+  remaining_all              6.1%
+  time_cost                  6.0%
+  drone_remaining            5.2%
+  slack_after                5.2%

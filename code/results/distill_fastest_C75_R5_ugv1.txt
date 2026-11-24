@@ -1,0 +1,44 @@
+Instance('C75_R5', customers=75, stations=5) | base rule fastest | 3429 alternatives seen on 210 training days, the learned policy switched to 362 of them (10.6%)
+
+Held-out test, 60 days.  base rule 3434.53, learned (fit 0) 3301.93
+  depth 2: cost  3461.39  against the base rule   +26.86 [ -126.74,  +180.45]   keeps -20% of the learned policy's gain, changes 2.4 decisions a day, 4 leaves
+  depth 3: cost  3522.81  against the base rule   +88.28 [  -75.56,  +252.13]   keeps -67% of the learned policy's gain, changes 4.7 decisions a day, 8 leaves
+  depth 4: cost  3443.26  against the base rule    +8.73 [ -146.85,  +164.30]   keeps  -7% of the learned policy's gain, changes 4.2 decisions a day, 16 leaves
+
+Tree of depth 2 (class 1 = switch to this alternative):
+|--- detour_minus_base <= 2.3
+|   |--- detour_km <= 5.3
+|   |   |--- class: 1
+|   |--- detour_km >  5.3
+|   |   |--- class: 0
+|--- detour_minus_base >  2.3
+|   |--- recent_departures <= 0.5
+|   |   |--- class: 0
+|   |--- recent_departures >  0.5
+|   |   |--- class: 0
+
+
+Tree of depth 3 (class 1 = switch to this alternative):
+|--- detour_minus_base <= 2.3
+|   |--- detour_km <= 5.3
+|   |   |--- regret_score <= 0.5
+|   |   |   |--- class: 1
+|   |   |--- regret_score >  0.5
+|   |   |   |--- class: 1
+|   |--- detour_km >  5.3
+|   |   |--- time_cost <= 22.7
+|   |   |   |--- class: 1
+|   |   |--- time_cost >  22.7
+|   |   |   |--- class: 0
+|--- detour_minus_base >  2.3
+|   |--- recent_departures <= 0.5
+|   |   |--- weighted_score <= 1.0
+|   |   |   |--- class: 0
+|   |   |--- weighted_score >  1.0
+|   |   |   |--- class: 1
+|   |--- recent_departures >  0.5
+|   |   |--- regret_score <= 0.5
+|   |   |   |--- class: 0
+|   |   |--- regret_score >  0.5
+|   |   |   |--- class: 0
+

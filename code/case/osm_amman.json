@@ -1,0 +1,2734 @@
+{
+"bbox": [
+31.86,
+35.8,
+32.05,
+36.02
+],
+"timestamp": "2026-06-01T08:52:28Z",
+"elements": [
+{
+"osm": "node/489657816",
+"kind": "fuel",
+"lat": 31.9248621,
+"lon": 35.9433426,
+"name": "محطة الأردن"
+},
+{
+"osm": "node/652570146",
+"kind": "pharmacy",
+"lat": 31.9549156,
+"lon": 35.8842193,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/1076029135",
+"kind": "pharmacy",
+"lat": 31.9659654,
+"lon": 35.8917718,
+"name": "Amon Pharmacy"
+},
+{
+"osm": "node/1076050960",
+"kind": "hospital",
+"lat": 31.965633,
+"lon": 35.8861697,
+"name": "Al Istishari Hospital"
+},
+{
+"osm": "node/1076073263",
+"kind": "hospital",
+"lat": 31.9700612,
+"lon": 35.8939604,
+"name": "Shmeisani Hospital"
+},
+{
+"osm": "node/1654277910",
+"kind": "pharmacy",
+"lat": 31.9541789,
+"lon": 35.8568161,
+"name": ""
+},
+{
+"osm": "node/1654302858",
+"kind": "pharmacy",
+"lat": 31.9583329,
+"lon": 35.8583105,
+"name": "Pharmacy 1"
+},
+{
+"osm": "node/1765638668",
+"kind": "fuel",
+"lat": 31.8698567,
+"lon": 35.9849037,
+"name": ""
+},
+{
+"osm": "node/1843679882",
+"kind": "pharmacy",
+"lat": 31.9427116,
+"lon": 35.946046,
+"name": "Mohammad"
+},
+{
+"osm": "node/1843705494",
+"kind": "pharmacy",
+"lat": 31.9448397,
+"lon": 35.9449061,
+"name": "Abu Qobo'"
+},
+{
+"osm": "node/1843705498",
+"kind": "pharmacy",
+"lat": 31.9441114,
+"lon": 35.9456598,
+"name": "Nidal"
+},
+{
+"osm": "node/1858598060",
+"kind": "hospital",
+"lat": 32.0046303,
+"lon": 35.8749665,
+"name": "Jordan University Hospital"
+},
+{
+"osm": "node/1923533386",
+"kind": "hospital",
+"lat": 31.9979263,
+"lon": 35.8729361,
+"name": ""
+},
+{
+"osm": "node/1923534186",
+"kind": "hospital",
+"lat": 31.9975442,
+"lon": 35.8723782,
+"name": "مستشفى العيون التخصصي أمي"
+},
+{
+"osm": "node/1923544302",
+"kind": "fuel",
+"lat": 32.0332273,
+"lon": 35.8630495,
+"name": "Al Lozy"
+},
+{
+"osm": "node/1927937405",
+"kind": "pharmacy",
+"lat": 32.0251936,
+"lon": 35.8560333,
+"name": "Pharmacy One (Jubaiha)"
+},
+{
+"osm": "node/2177028754",
+"kind": "hospital",
+"lat": 31.9577664,
+"lon": 35.8453973,
+"name": "Al-Jandaweel Hospital"
+},
+{
+"osm": "node/2466404661",
+"kind": "pharmacy",
+"lat": 31.9431446,
+"lon": 35.8662881,
+"name": "Jounia Pharmacy"
+},
+{
+"osm": "node/2466449354",
+"kind": "pharmacy",
+"lat": 31.9539524,
+"lon": 35.9112758,
+"name": "Jacob's Pharmacy"
+},
+{
+"osm": "node/2528846787",
+"kind": "fuel",
+"lat": 31.872387,
+"lon": 35.9314055,
+"name": "manaser express"
+},
+{
+"osm": "node/2528846788",
+"kind": "fuel",
+"lat": 31.8745672,
+"lon": 35.9321073,
+"name": ""
+},
+{
+"osm": "node/2840976592",
+"kind": "pharmacy",
+"lat": 31.9925909,
+"lon": 35.8181699,
+"name": "Dabouq Pharmacy"
+},
+{
+"osm": "node/2840976597",
+"kind": "pharmacy",
+"lat": 31.9925438,
+"lon": 35.8138677,
+"name": "Sabbar Pharmacy"
+},
+{
+"osm": "node/2872654986",
+"kind": "pharmacy",
+"lat": 31.9567072,
+"lon": 35.8709108,
+"name": "Darwazeh Pharmacy"
+},
+{
+"osm": "node/2873745153",
+"kind": "pharmacy",
+"lat": 31.9881562,
+"lon": 35.8061965,
+"name": ""
+},
+{
+"osm": "node/2883772125",
+"kind": "fuel",
+"lat": 31.9728842,
+"lon": 35.8862154,
+"name": "Manaseer"
+},
+{
+"osm": "node/3261369425",
+"kind": "pharmacy",
+"lat": 31.9871995,
+"lon": 36.0191962,
+"name": "صيدلبية الاستاذ"
+},
+{
+"osm": "node/3261391829",
+"kind": "pharmacy",
+"lat": 31.9987458,
+"lon": 35.9981641,
+"name": ""
+},
+{
+"osm": "node/3319607397",
+"kind": "hospital",
+"lat": 31.9817585,
+"lon": 35.9900366,
+"name": "مستشفى ماركا العسكري"
+},
+{
+"osm": "node/3319607438",
+"kind": "hospital",
+"lat": 31.973562,
+"lon": 35.9742391,
+"name": "مركز ماركا الصحي"
+},
+{
+"osm": "node/3681492783",
+"kind": "pharmacy",
+"lat": 31.9539768,
+"lon": 35.8405227,
+"name": "Doaa's Pharmacy"
+},
+{
+"osm": "node/3681496664",
+"kind": "pharmacy",
+"lat": 31.9727338,
+"lon": 35.9106472,
+"name": "Orange Pharmacy"
+},
+{
+"osm": "node/3882001173",
+"kind": "pharmacy",
+"lat": 31.9803959,
+"lon": 35.8373368,
+"name": "Farmacity"
+},
+{
+"osm": "node/4010295712",
+"kind": "pharmacy",
+"lat": 31.9841442,
+"lon": 35.8889667,
+"name": ""
+},
+{
+"osm": "node/4172942035",
+"kind": "fuel",
+"lat": 32.026733,
+"lon": 35.8355608,
+"name": ""
+},
+{
+"osm": "node/4200543590",
+"kind": "hospital",
+"lat": 31.9734169,
+"lon": 35.9109564,
+"name": "Al Amal Hospital"
+},
+{
+"osm": "node/4209730508",
+"kind": "hospital",
+"lat": 31.9114012,
+"lon": 35.915,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/4232912040",
+"kind": "pharmacy",
+"lat": 32.0223996,
+"lon": 35.8420857,
+"name": ""
+},
+{
+"osm": "node/4304602996",
+"kind": "hospital",
+"lat": 31.9857692,
+"lon": 35.8784005,
+"name": "Gardens"
+},
+{
+"osm": "node/4357433099",
+"kind": "pharmacy",
+"lat": 31.8930808,
+"lon": 35.910733,
+"name": "ابو محمود المقابلين"
+},
+{
+"osm": "node/4406046389",
+"kind": "pharmacy",
+"lat": 31.9637421,
+"lon": 35.8675945,
+"name": "Zaid Pharmacy"
+},
+{
+"osm": "node/4406061291",
+"kind": "pharmacy",
+"lat": 31.9654655,
+"lon": 35.869862,
+"name": "Al-Bawasel Pharmacy"
+},
+{
+"osm": "node/4412318790",
+"kind": "pharmacy",
+"lat": 31.975317,
+"lon": 35.9052055,
+"name": "Green tea"
+},
+{
+"osm": "node/4413152890",
+"kind": "pharmacy",
+"lat": 31.9459756,
+"lon": 35.8621254,
+"name": "Imtithal Pharmacy"
+},
+{
+"osm": "node/4449445617",
+"kind": "hospital",
+"lat": 31.9014814,
+"lon": 35.9339717,
+"name": "Alhamayda Hospital"
+},
+{
+"osm": "node/4546727390",
+"kind": "hospital",
+"lat": 31.9797235,
+"lon": 35.9781347,
+"name": "Al Mowasah Hospital"
+},
+{
+"osm": "node/4614503622",
+"kind": "pharmacy",
+"lat": 31.9628066,
+"lon": 35.9165524,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/4631910691",
+"kind": "hospital",
+"lat": 31.9473862,
+"lon": 35.8954029,
+"name": "Al Hayat Hospital"
+},
+{
+"osm": "node/4631910891",
+"kind": "hospital",
+"lat": 31.9214533,
+"lon": 35.9031193,
+"name": "مستشفى الحياة العام هبة الله"
+},
+{
+"osm": "node/4649251789",
+"kind": "hospital",
+"lat": 31.9679603,
+"lon": 35.9170648,
+"name": "Heba hospital"
+},
+{
+"osm": "node/4652636107",
+"kind": "pharmacy",
+"lat": 31.9759069,
+"lon": 35.9904876,
+"name": "Al nibras pharmacy"
+},
+{
+"osm": "node/4731173921",
+"kind": "pharmacy",
+"lat": 31.969755,
+"lon": 35.9143248,
+"name": "صيدلية خالد بن الوليد"
+},
+{
+"osm": "node/4827162922",
+"kind": "pharmacy",
+"lat": 31.9741853,
+"lon": 35.8865069,
+"name": "Pharmacy 1"
+},
+{
+"osm": "node/4864275521",
+"kind": "hospital",
+"lat": 32.0052337,
+"lon": 35.8738245,
+"name": "الحسين لسر طان"
+},
+{
+"osm": "node/4970460422",
+"kind": "pharmacy",
+"lat": 32.0033626,
+"lon": 35.8854974,
+"name": "Al muhannad"
+},
+{
+"osm": "node/5099434655",
+"kind": "pharmacy",
+"lat": 32.048785,
+"lon": 35.8734311,
+"name": "Hayat Amman Pharmacy"
+},
+{
+"osm": "node/5107143525",
+"kind": "fuel",
+"lat": 31.9800786,
+"lon": 35.9022216,
+"name": "Manasser gas station"
+},
+{
+"osm": "node/5109951221",
+"kind": "hospital",
+"lat": 31.9887839,
+"lon": 35.9173168,
+"name": "Royal Hospital"
+},
+{
+"osm": "node/5109951223",
+"kind": "hospital",
+"lat": 31.9796377,
+"lon": 35.9162533,
+"name": "Istiklal Hospital"
+},
+{
+"osm": "node/5175028876",
+"kind": "pharmacy",
+"lat": 31.9622423,
+"lon": 35.8896562,
+"name": "Pharmacy 1"
+},
+{
+"osm": "node/5186522944",
+"kind": "pharmacy",
+"lat": 31.9709906,
+"lon": 35.9031212,
+"name": "Carnation"
+},
+{
+"osm": "node/5202975222",
+"kind": "pharmacy",
+"lat": 32.0333002,
+"lon": 35.8698103,
+"name": "صدلية دواكم"
+},
+{
+"osm": "node/5470708523",
+"kind": "pharmacy",
+"lat": 31.9799319,
+"lon": 35.9569378,
+"name": ""
+},
+{
+"osm": "node/5760149770",
+"kind": "pharmacy",
+"lat": 31.9607198,
+"lon": 35.9049765,
+"name": "life line"
+},
+{
+"osm": "node/5801749558",
+"kind": "fuel",
+"lat": 31.9783138,
+"lon": 36.0131807,
+"name": "AL-Manseer petrol station"
+},
+{
+"osm": "node/5824803953",
+"kind": "hospital",
+"lat": 31.9999211,
+"lon": 35.9187016,
+"name": "مستشفى الملكة علياء العسكري"
+},
+{
+"osm": "node/5824805053",
+"kind": "fuel",
+"lat": 31.9970029,
+"lon": 35.896385,
+"name": "كازية الحرمين( الخرابشة)"
+},
+{
+"osm": "node/5893938742",
+"kind": "fuel",
+"lat": 32.031008,
+"lon": 35.9797827,
+"name": ""
+},
+{
+"osm": "node/5909877081",
+"kind": "pharmacy",
+"lat": 31.9832698,
+"lon": 35.8982134,
+"name": ""
+},
+{
+"osm": "node/5929260287",
+"kind": "pharmacy",
+"lat": 31.9719639,
+"lon": 35.9059379,
+"name": "Jullnar pharmacy"
+},
+{
+"osm": "node/6055154820",
+"kind": "hospital",
+"lat": 31.9935702,
+"lon": 36.0172224,
+"name": "العيادة"
+},
+{
+"osm": "node/6412459356",
+"kind": "pharmacy",
+"lat": 31.9072965,
+"lon": 35.9321042,
+"name": "Al-Weqaya Pharmacy"
+},
+{
+"osm": "node/6412459378",
+"kind": "hospital",
+"lat": 31.9091465,
+"lon": 35.9289765,
+"name": "مستشفى الحنان"
+},
+{
+"osm": "node/6412654245",
+"kind": "pharmacy",
+"lat": 31.9032462,
+"lon": 35.9044254,
+"name": ""
+},
+{
+"osm": "node/6412802507",
+"kind": "pharmacy",
+"lat": 32.0174339,
+"lon": 35.8487199,
+"name": "Freesia Pharmacy"
+},
+{
+"osm": "node/6424153497",
+"kind": "pharmacy",
+"lat": 32.0202951,
+"lon": 35.8483715,
+"name": "Hiam Pharmacy"
+},
+{
+"osm": "node/6426364739",
+"kind": "pharmacy",
+"lat": 31.9276403,
+"lon": 35.9012,
+"name": ""
+},
+{
+"osm": "node/6426543145",
+"kind": "pharmacy",
+"lat": 31.9224915,
+"lon": 35.896362,
+"name": ""
+},
+{
+"osm": "node/6426665978",
+"kind": "pharmacy",
+"lat": 31.9805949,
+"lon": 35.8474237,
+"name": "Dana Pharmacy"
+},
+{
+"osm": "node/6428436377",
+"kind": "pharmacy",
+"lat": 31.9797827,
+"lon": 35.8486354,
+"name": ""
+},
+{
+"osm": "node/6429352160",
+"kind": "pharmacy",
+"lat": 31.9791917,
+"lon": 35.8512171,
+"name": "Zrari Pharmacy"
+},
+{
+"osm": "node/6436747954",
+"kind": "pharmacy",
+"lat": 31.9762635,
+"lon": 35.8591443,
+"name": "Leen Pharma"
+},
+{
+"osm": "node/6437162223",
+"kind": "pharmacy",
+"lat": 31.8887188,
+"lon": 35.8580669,
+"name": ""
+},
+{
+"osm": "node/6438662318",
+"kind": "pharmacy",
+"lat": 31.8960078,
+"lon": 35.864661,
+"name": "Jana Pharmacy"
+},
+{
+"osm": "node/6438753306",
+"kind": "pharmacy",
+"lat": 31.8876529,
+"lon": 35.8560625,
+"name": "Sali Pharmacy"
+},
+{
+"osm": "node/6438996349",
+"kind": "pharmacy",
+"lat": 31.981113,
+"lon": 35.8583477,
+"name": "Day & Night Pharmacy"
+},
+{
+"osm": "node/6439010653",
+"kind": "pharmacy",
+"lat": 31.8900572,
+"lon": 35.8591045,
+"name": "Mayar Pharmacy"
+},
+{
+"osm": "node/6439647247",
+"kind": "pharmacy",
+"lat": 31.8877759,
+"lon": 35.8593395,
+"name": "Pharmacy Platinum"
+},
+{
+"osm": "node/6439708670",
+"kind": "pharmacy",
+"lat": 31.9856688,
+"lon": 35.8630617,
+"name": "Alma Pharmacy"
+},
+{
+"osm": "node/6441321174",
+"kind": "pharmacy",
+"lat": 31.9013335,
+"lon": 35.844668,
+"name": "Mawal"
+},
+{
+"osm": "node/6443190445",
+"kind": "pharmacy",
+"lat": 31.9029434,
+"lon": 35.8493657,
+"name": "Hashem Pharmacy"
+},
+{
+"osm": "node/6443301686",
+"kind": "pharmacy",
+"lat": 31.9040866,
+"lon": 35.8432887,
+"name": "صيدلية تلة المرج"
+},
+{
+"osm": "node/6443320754",
+"kind": "pharmacy",
+"lat": 31.9055735,
+"lon": 35.8412223,
+"name": "Care Well"
+},
+{
+"osm": "node/6444039967",
+"kind": "fuel",
+"lat": 32.0478132,
+"lon": 35.8903143,
+"name": ""
+},
+{
+"osm": "node/6445785985",
+"kind": "pharmacy",
+"lat": 31.9888657,
+"lon": 35.8549447,
+"name": "Melia Pharmacy"
+},
+{
+"osm": "node/6446506409",
+"kind": "pharmacy",
+"lat": 31.8917347,
+"lon": 35.8446841,
+"name": ""
+},
+{
+"osm": "node/6452135268",
+"kind": "pharmacy",
+"lat": 31.9943942,
+"lon": 35.8592805,
+"name": "Drug Center"
+},
+{
+"osm": "node/6452135276",
+"kind": "pharmacy",
+"lat": 31.993478,
+"lon": 35.862361,
+"name": "Pharmore"
+},
+{
+"osm": "node/6452813106",
+"kind": "pharmacy",
+"lat": 31.9962367,
+"lon": 35.8375539,
+"name": "Rawhi Pharmacy"
+},
+{
+"osm": "node/6452989089",
+"kind": "pharmacy",
+"lat": 31.9964056,
+"lon": 35.8397627,
+"name": "Medicine One"
+},
+{
+"osm": "node/6453014829",
+"kind": "pharmacy",
+"lat": 31.9920272,
+"lon": 35.8412154,
+"name": "Al Sawamer Pharmacy"
+},
+{
+"osm": "node/6453261285",
+"kind": "pharmacy",
+"lat": 31.9052899,
+"lon": 35.8368324,
+"name": ""
+},
+{
+"osm": "node/6455931482",
+"kind": "pharmacy",
+"lat": 31.9788072,
+"lon": 35.8708027,
+"name": "Jounia of Jordan Pharmacy"
+},
+{
+"osm": "node/6456465233",
+"kind": "pharmacy",
+"lat": 31.9825743,
+"lon": 35.8653164,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/6456487447",
+"kind": "pharmacy",
+"lat": 31.9911014,
+"lon": 35.8178638,
+"name": "Medicine One Pharmacy"
+},
+{
+"osm": "node/6456633255",
+"kind": "pharmacy",
+"lat": 31.9957187,
+"lon": 35.9162989,
+"name": "Benin Pharmacy Health"
+},
+{
+"osm": "node/6459261656",
+"kind": "pharmacy",
+"lat": 31.9970841,
+"lon": 35.8742358,
+"name": ""
+},
+{
+"osm": "node/6459323488",
+"kind": "pharmacy",
+"lat": 31.985281,
+"lon": 35.8815418,
+"name": "Pharmore"
+},
+{
+"osm": "node/6459616216",
+"kind": "pharmacy",
+"lat": 31.9945051,
+"lon": 35.896311,
+"name": ""
+},
+{
+"osm": "node/6459616223",
+"kind": "fuel",
+"lat": 31.9944419,
+"lon": 35.8965585,
+"name": "Jo Petrol"
+},
+{
+"osm": "node/6459931879",
+"kind": "pharmacy",
+"lat": 31.9765479,
+"lon": 35.904703,
+"name": "Pharma Beaute' Pharmacy"
+},
+{
+"osm": "node/6460116274",
+"kind": "pharmacy",
+"lat": 31.9926318,
+"lon": 35.8722389,
+"name": ""
+},
+{
+"osm": "node/6460148436",
+"kind": "pharmacy",
+"lat": 31.9753523,
+"lon": 35.9140103,
+"name": ""
+},
+{
+"osm": "node/6462533214",
+"kind": "pharmacy",
+"lat": 31.9880132,
+"lon": 35.884516,
+"name": ""
+},
+{
+"osm": "node/6462578933",
+"kind": "fuel",
+"lat": 31.9903421,
+"lon": 35.8934424,
+"name": "Bin Odah"
+},
+{
+"osm": "node/6462579570",
+"kind": "pharmacy",
+"lat": 32.0027695,
+"lon": 35.8833721,
+"name": "AlDawahi Pharmacv"
+},
+{
+"osm": "node/6465071960",
+"kind": "pharmacy",
+"lat": 32.0050065,
+"lon": 35.8851121,
+"name": "Curve Pharmacy"
+},
+{
+"osm": "node/6465209958",
+"kind": "pharmacy",
+"lat": 31.9984523,
+"lon": 35.8870849,
+"name": "Yara Pharmacy"
+},
+{
+"osm": "node/6465293492",
+"kind": "pharmacy",
+"lat": 31.9796638,
+"lon": 35.8903867,
+"name": ""
+},
+{
+"osm": "node/6470225416",
+"kind": "hospital",
+"lat": 31.9660779,
+"lon": 35.8867349,
+"name": "Istishari Hospital"
+},
+{
+"osm": "node/6473605132",
+"kind": "pharmacy",
+"lat": 31.9044013,
+"lon": 35.8535781,
+"name": "N Kawar"
+},
+{
+"osm": "node/6474016900",
+"kind": "pharmacy",
+"lat": 31.9787135,
+"lon": 35.9271174,
+"name": ""
+},
+{
+"osm": "node/6475728770",
+"kind": "pharmacy",
+"lat": 31.9786144,
+"lon": 35.9826165,
+"name": ""
+},
+{
+"osm": "node/6475858553",
+"kind": "pharmacy",
+"lat": 31.9720523,
+"lon": 35.9281191,
+"name": ""
+},
+{
+"osm": "node/6475897560",
+"kind": "pharmacy",
+"lat": 31.9770883,
+"lon": 35.9244642,
+"name": ""
+},
+{
+"osm": "node/6475947966",
+"kind": "pharmacy",
+"lat": 31.9075919,
+"lon": 35.8708777,
+"name": ""
+},
+{
+"osm": "node/6476300005",
+"kind": "pharmacy",
+"lat": 32.0001771,
+"lon": 35.9440771,
+"name": "Pharma"
+},
+{
+"osm": "node/6478675890",
+"kind": "pharmacy",
+"lat": 31.9496918,
+"lon": 35.8170967,
+"name": "Liza Pharmacy"
+},
+{
+"osm": "node/6479108719",
+"kind": "pharmacy",
+"lat": 31.9628751,
+"lon": 35.9619561,
+"name": ""
+},
+{
+"osm": "node/6479295679",
+"kind": "pharmacy",
+"lat": 31.9468867,
+"lon": 35.8396487,
+"name": "Mhanna Pharmacy"
+},
+{
+"osm": "node/6481111056",
+"kind": "pharmacy",
+"lat": 31.9537604,
+"lon": 35.8343941,
+"name": "صيدلية إبراهيم"
+},
+{
+"osm": "node/6481156599",
+"kind": "pharmacy",
+"lat": 31.951195,
+"lon": 35.8349551,
+"name": "Siwar Al-Asal Pharmacy"
+},
+{
+"osm": "node/6481374976",
+"kind": "pharmacy",
+"lat": 31.9465499,
+"lon": 35.8474928,
+"name": "FruCtose"
+},
+{
+"osm": "node/6486023452",
+"kind": "pharmacy",
+"lat": 31.91799,
+"lon": 35.9083669,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/6486122833",
+"kind": "pharmacy",
+"lat": 31.9800255,
+"lon": 35.9847777,
+"name": ""
+},
+{
+"osm": "node/6486661571",
+"kind": "hospital",
+"lat": 31.9843903,
+"lon": 35.9903285,
+"name": "Marka Specialty Hospital"
+},
+{
+"osm": "node/6486715697",
+"kind": "fuel",
+"lat": 31.9756094,
+"lon": 35.9311724,
+"name": ""
+},
+{
+"osm": "node/6486804193",
+"kind": "fuel",
+"lat": 31.9941576,
+"lon": 35.9904867,
+"name": ""
+},
+{
+"osm": "node/6488469094",
+"kind": "fuel",
+"lat": 31.9764626,
+"lon": 35.9471597,
+"name": "Suboh Gas Station"
+},
+{
+"osm": "node/6489030613",
+"kind": "pharmacy",
+"lat": 31.985935,
+"lon": 35.9595059,
+"name": "Abeer Al-Ward Pharmacy"
+},
+{
+"osm": "node/6489294281",
+"kind": "pharmacy",
+"lat": 31.9888742,
+"lon": 35.9477994,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/6489373748",
+"kind": "pharmacy",
+"lat": 31.9622595,
+"lon": 35.8534192,
+"name": "Pansee Pharmacy"
+},
+{
+"osm": "node/6489427962",
+"kind": "pharmacy",
+"lat": 31.9911673,
+"lon": 35.9441248,
+"name": "صيدلية بتونيا"
+},
+{
+"osm": "node/6489446082",
+"kind": "pharmacy",
+"lat": 31.95895,
+"lon": 35.8506901,
+"name": ""
+},
+{
+"osm": "node/6489510558",
+"kind": "pharmacy",
+"lat": 31.966972,
+"lon": 35.8449623,
+"name": ""
+},
+{
+"osm": "node/6491359762",
+"kind": "pharmacy",
+"lat": 31.9471793,
+"lon": 35.8726501,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/6493140503",
+"kind": "pharmacy",
+"lat": 31.975656,
+"lon": 35.8508348,
+"name": ""
+},
+{
+"osm": "node/6493218884",
+"kind": "pharmacy",
+"lat": 32.0281673,
+"lon": 35.8817594,
+"name": ""
+},
+{
+"osm": "node/6495372815",
+"kind": "pharmacy",
+"lat": 32.0143995,
+"lon": 35.8940483,
+"name": "Strawberry Pharmacy"
+},
+{
+"osm": "node/6497751858",
+"kind": "pharmacy",
+"lat": 32.0263368,
+"lon": 35.872139,
+"name": "Bab Al Hadid Pharmacy"
+},
+{
+"osm": "node/6498230628",
+"kind": "pharmacy",
+"lat": 31.9972452,
+"lon": 35.8720906,
+"name": "Pharmore"
+},
+{
+"osm": "node/6498549702",
+"kind": "pharmacy",
+"lat": 32.0262874,
+"lon": 35.8639961,
+"name": ""
+},
+{
+"osm": "node/6551590286",
+"kind": "pharmacy",
+"lat": 32.0234021,
+"lon": 35.8889711,
+"name": ""
+},
+{
+"osm": "node/6551590287",
+"kind": "pharmacy",
+"lat": 32.021839,
+"lon": 35.886089,
+"name": ""
+},
+{
+"osm": "node/6572051785",
+"kind": "hospital",
+"lat": 31.9517213,
+"lon": 35.9054692,
+"name": "صيدليه البيروني"
+},
+{
+"osm": "node/6573216874",
+"kind": "pharmacy",
+"lat": 31.9138031,
+"lon": 35.9387268,
+"name": "صيدلية الخليج"
+},
+{
+"osm": "node/6643944955",
+"kind": "pharmacy",
+"lat": 31.8833489,
+"lon": 35.8959603,
+"name": "صيدلية زهرة المرج"
+},
+{
+"osm": "node/6644063389",
+"kind": "pharmacy",
+"lat": 31.8975271,
+"lon": 35.8870907,
+"name": "صيدلية ابو زهرة"
+},
+{
+"osm": "node/6770245085",
+"kind": "pharmacy",
+"lat": 31.9192306,
+"lon": 35.850058,
+"name": "Yousef dibi"
+},
+{
+"osm": "node/6771272412",
+"kind": "pharmacy",
+"lat": 31.9187416,
+"lon": 35.922758,
+"name": "صيدلية الصحابة"
+},
+{
+"osm": "node/6771282186",
+"kind": "hospital",
+"lat": 31.925898,
+"lon": 35.927829,
+"name": "مستشفى القدس"
+},
+{
+"osm": "node/6774403175",
+"kind": "fuel",
+"lat": 31.9123089,
+"lon": 35.9385285,
+"name": "محطة توتال"
+},
+{
+"osm": "node/6774441611",
+"kind": "fuel",
+"lat": 31.9181601,
+"lon": 35.9388084,
+"name": "محطة جوبترول"
+},
+{
+"osm": "node/6789065985",
+"kind": "pharmacy",
+"lat": 31.9714959,
+"lon": 35.8431861,
+"name": "Honey Pharmacy"
+},
+{
+"osm": "node/7109111198",
+"kind": "pharmacy",
+"lat": 31.9502358,
+"lon": 35.9243939,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/7109153200",
+"kind": "pharmacy",
+"lat": 31.9492271,
+"lon": 35.9270076,
+"name": "Rahmeh Pharmacy"
+},
+{
+"osm": "node/7112076760",
+"kind": "pharmacy",
+"lat": 31.9487684,
+"lon": 35.9392707,
+"name": "عباد الرحمن"
+},
+{
+"osm": "node/7125900876",
+"kind": "pharmacy",
+"lat": 31.9505567,
+"lon": 35.9210307,
+"name": "Pharmacy World"
+},
+{
+"osm": "node/7128129139",
+"kind": "hospital",
+"lat": 31.9447307,
+"lon": 35.9320837,
+"name": "Italian Hospital"
+},
+{
+"osm": "node/7136571709",
+"kind": "pharmacy",
+"lat": 31.9517872,
+"lon": 35.9149985,
+"name": "University Pharmacy"
+},
+{
+"osm": "node/7139461615",
+"kind": "pharmacy",
+"lat": 31.9633513,
+"lon": 35.8711266,
+"name": "Pharmacy One"
+},
+{
+"osm": "node/7474565242",
+"kind": "pharmacy",
+"lat": 31.9212397,
+"lon": 35.9240395,
+"name": "صيدلية دوائي"
+},
+{
+"osm": "node/7476361513",
+"kind": "pharmacy",
+"lat": 31.9312739,
+"lon": 35.9348105,
+"name": "صيديلة نابلس"
+},
+{
+"osm": "node/7476943780",
+"kind": "pharmacy",
+"lat": 31.9297242,
+"lon": 35.9363679,
+"name": "صديلية البراق"
+},
+{
+"osm": "node/7477177096",
+"kind": "pharmacy",
+"lat": 31.9175847,
+"lon": 35.9047283,
+"name": "صيدلية اضاليا"
+},
+{
+"osm": "node/7477306897",
+"kind": "pharmacy",
+"lat": 31.9206486,
+"lon": 35.9338303,
+"name": "صيدلية سيبال"
+},
+{
+"osm": "node/7477328580",
+"kind": "pharmacy",
+"lat": 31.92206,
+"lon": 35.9282646,
+"name": "صيدلية الزعفران"
+},
+{
+"osm": "node/7480697134",
+"kind": "pharmacy",
+"lat": 31.9194899,
+"lon": 35.9247802,
+"name": "صيدلية سوا"
+},
+{
+"osm": "node/7485554616",
+"kind": "pharmacy",
+"lat": 31.9168134,
+"lon": 35.9311798,
+"name": "صيدلبة زوانه"
+},
+{
+"osm": "node/7514418084",
+"kind": "fuel",
+"lat": 31.9155123,
+"lon": 35.9109505,
+"name": "محطة توتال المقابلين"
+},
+{
+"osm": "node/7549947039",
+"kind": "pharmacy",
+"lat": 31.9201515,
+"lon": 35.9296299,
+"name": "صيدلية العلاجات التجانسية"
+},
+{
+"osm": "node/7549955943",
+"kind": "pharmacy",
+"lat": 31.919995,
+"lon": 35.915762,
+"name": "صيدلية سامراء"
+},
+{
+"osm": "node/7549977158",
+"kind": "pharmacy",
+"lat": 31.9049612,
+"lon": 35.8877506,
+"name": "صيدلية القوة"
+},
+{
+"osm": "node/7549984614",
+"kind": "pharmacy",
+"lat": 31.9164652,
+"lon": 35.9215997,
+"name": "صدلية جمانة"
+},
+{
+"osm": "node/7549991208",
+"kind": "pharmacy",
+"lat": 31.9025374,
+"lon": 35.8893281,
+"name": "صيدلية الرنتيسي"
+},
+{
+"osm": "node/7554180555",
+"kind": "pharmacy",
+"lat": 31.9060781,
+"lon": 35.9372556,
+"name": "صيدلية تهاليل"
+},
+{
+"osm": "node/7555774706",
+"kind": "pharmacy",
+"lat": 31.9212459,
+"lon": 35.9183176,
+"name": "صيدلية الحافظ"
+},
+{
+"osm": "node/7559983494",
+"kind": "pharmacy",
+"lat": 31.9241839,
+"lon": 35.9236444,
+"name": "صيدلية سيروتونين"
+},
+{
+"osm": "node/7884333485",
+"kind": "pharmacy",
+"lat": 31.9235973,
+"lon": 35.8979384,
+"name": "صيدلية العز"
+},
+{
+"osm": "node/8428748682",
+"kind": "pharmacy",
+"lat": 31.9854714,
+"lon": 35.893436,
+"name": ""
+},
+{
+"osm": "node/8446078717",
+"kind": "pharmacy",
+"lat": 31.9894798,
+"lon": 35.903561,
+"name": ""
+},
+{
+"osm": "node/8446078736",
+"kind": "pharmacy",
+"lat": 31.9880639,
+"lon": 35.8996512,
+"name": ""
+},
+{
+"osm": "node/8467730953",
+"kind": "pharmacy",
+"lat": 31.9873759,
+"lon": 35.9010218,
+"name": ""
+},
+{
+"osm": "node/8467730957",
+"kind": "pharmacy",
+"lat": 31.9871208,
+"lon": 35.9000948,
+"name": ""
+},
+{
+"osm": "node/8738456517",
+"kind": "fuel",
+"lat": 31.9273564,
+"lon": 35.8760192,
+"name": "JoPetrol"
+},
+{
+"osm": "node/8739099418",
+"kind": "pharmacy",
+"lat": 31.9277176,
+"lon": 35.8758432,
+"name": "Leaf"
+},
+{
+"osm": "node/8749153618",
+"kind": "pharmacy",
+"lat": 32.0006173,
+"lon": 35.8740631,
+"name": "Aster Orange"
+},
+{
+"osm": "node/8749153817",
+"kind": "pharmacy",
+"lat": 31.9694095,
+"lon": 35.8646498,
+"name": "صيدلية روحي"
+},
+{
+"osm": "node/8749153818",
+"kind": "pharmacy",
+"lat": 31.9800257,
+"lon": 35.8655699,
+"name": ""
+},
+{
+"osm": "node/8758716717",
+"kind": "pharmacy",
+"lat": 31.9505063,
+"lon": 35.9157827,
+"name": "Batshone"
+},
+{
+"osm": "node/8762218317",
+"kind": "pharmacy",
+"lat": 31.9504599,
+"lon": 35.8837553,
+"name": "Altadawi"
+},
+{
+"osm": "node/8765787017",
+"kind": "pharmacy",
+"lat": 31.9560716,
+"lon": 35.927477,
+"name": "Fattaleh"
+},
+{
+"osm": "node/8769731217",
+"kind": "pharmacy",
+"lat": 31.9845489,
+"lon": 35.8660701,
+"name": ""
+},
+{
+"osm": "node/8779354618",
+"kind": "pharmacy",
+"lat": 31.954768,
+"lon": 35.9150768,
+"name": "Al Sayyed Pharmacy"
+},
+{
+"osm": "node/8786127417",
+"kind": "pharmacy",
+"lat": 31.960553,
+"lon": 35.8787997,
+"name": ""
+},
+{
+"osm": "node/8786127420",
+"kind": "pharmacy",
+"lat": 31.9580394,
+"lon": 35.8772998,
+"name": "Rawhi"
+},
+{
+"osm": "node/9065818317",
+"kind": "fuel",
+"lat": 31.9523364,
+"lon": 35.9263649,
+"name": "Manaseer Express"
+},
+{
+"osm": "node/9121053989",
+"kind": "pharmacy",
+"lat": 31.9515287,
+"lon": 35.8237565,
+"name": "Al Wefaq Pharmacy"
+},
+{
+"osm": "node/9172155070",
+"kind": "fuel",
+"lat": 32.0369451,
+"lon": 35.8331075,
+"name": "Total"
+},
+{
+"osm": "node/9175860762",
+"kind": "fuel",
+"lat": 31.9602657,
+"lon": 35.9309631,
+"name": "Manaseer"
+},
+{
+"osm": "node/9297593802",
+"kind": "hospital",
+"lat": 31.9535469,
+"lon": 35.9006799,
+"name": "DENTALINE ORTHODONTICS"
+},
+{
+"osm": "node/9297631403",
+"kind": "hospital",
+"lat": 31.9534279,
+"lon": 35.9006831,
+"name": "مركز الدكتور طارق شعلان لطب وتقويم الأسنان"
+},
+{
+"osm": "node/9383556422",
+"kind": "pharmacy",
+"lat": 31.9133705,
+"lon": 35.9321271,
+"name": ""
+},
+{
+"osm": "node/9416018817",
+"kind": "pharmacy",
+"lat": 31.9947487,
+"lon": 35.8297238,
+"name": "Al-Sakha Pharmacy"
+},
+{
+"osm": "node/9588381737",
+"kind": "pharmacy",
+"lat": 32.0168169,
+"lon": 35.8624561,
+"name": "سيدلية رحيق الأزهار"
+},
+{
+"osm": "node/9759488414",
+"kind": "pharmacy",
+"lat": 31.9753017,
+"lon": 35.8943691,
+"name": ""
+},
+{
+"osm": "node/9835333506",
+"kind": "hospital",
+"lat": 31.9688992,
+"lon": 35.9120413,
+"name": "Al-Kindi Hospital"
+},
+{
+"osm": "node/9957531659",
+"kind": "pharmacy",
+"lat": 31.9522843,
+"lon": 35.932124,
+"name": "Ibn Sina"
+},
+{
+"osm": "node/10755769305",
+"kind": "pharmacy",
+"lat": 31.98509,
+"lon": 35.8914832,
+"name": "صيدلية ضرار القواسمي m&h"
+},
+{
+"osm": "node/10872863117",
+"kind": "hospital",
+"lat": 31.9790717,
+"lon": 35.8989405,
+"name": "Al-JazeeraHospital"
+},
+{
+"osm": "node/10907568407",
+"kind": "pharmacy",
+"lat": 32.0232737,
+"lon": 35.8742038,
+"name": "Sama Pharmacy"
+},
+{
+"osm": "node/10914576893",
+"kind": "pharmacy",
+"lat": 32.0011317,
+"lon": 35.8860274,
+"name": ""
+},
+{
+"osm": "node/10914611184",
+"kind": "pharmacy",
+"lat": 32.0000636,
+"lon": 35.8917142,
+"name": ""
+},
+{
+"osm": "node/11368638722",
+"kind": "fuel",
+"lat": 31.9764956,
+"lon": 35.94716,
+"name": ""
+},
+{
+"osm": "node/11593796273",
+"kind": "fuel",
+"lat": 31.984094,
+"lon": 35.8862166,
+"name": "Jo petrol"
+},
+{
+"osm": "node/11652214956",
+"kind": "pharmacy",
+"lat": 31.9379738,
+"lon": 35.8559173,
+"name": "Deir Ghbar Pharmacy"
+},
+{
+"osm": "node/12045708330",
+"kind": "hospital",
+"lat": 32.0065705,
+"lon": 35.8842861,
+"name": "مركز أميمة الطبي"
+},
+{
+"osm": "node/12186038057",
+"kind": "pharmacy",
+"lat": 31.9720202,
+"lon": 35.8335062,
+"name": "Med Park Pharmacy"
+},
+{
+"osm": "node/12813332875",
+"kind": "pharmacy",
+"lat": 31.9189256,
+"lon": 35.9512598,
+"name": "صيدلية عون"
+},
+{
+"osm": "node/13296455145",
+"kind": "hospital",
+"lat": 31.9533909,
+"lon": 35.8529081,
+"name": "Dar Al Salam Hospital"
+},
+{
+"osm": "node/13300896803",
+"kind": "fuel",
+"lat": 31.9596372,
+"lon": 35.8563939,
+"name": "Jo Petrol"
+},
+{
+"osm": "node/13388849341",
+"kind": "fuel",
+"lat": 32.0238083,
+"lon": 35.9358406,
+"name": "محطة السويلميين"
+},
+{
+"osm": "node/13530297401",
+"kind": "pharmacy",
+"lat": 31.9869392,
+"lon": 35.9325298,
+"name": "Al-Aqsa Pharmacy"
+},
+{
+"osm": "node/13733209346",
+"kind": "pharmacy",
+"lat": 31.920813,
+"lon": 35.9498235,
+"name": "صيدلية العراقة"
+},
+{
+"osm": "node/13733209350",
+"kind": "pharmacy",
+"lat": 31.9230218,
+"lon": 35.9507585,
+"name": "صيدلية بير زيت"
+},
+{
+"osm": "node/13733209354",
+"kind": "pharmacy",
+"lat": 31.922606,
+"lon": 35.9507495,
+"name": "صيدلية الرباط"
+},
+{
+"osm": "node/13733209365",
+"kind": "pharmacy",
+"lat": 31.9192436,
+"lon": 35.9560572,
+"name": "صيدلية الجوري"
+},
+{
+"osm": "node/13733209367",
+"kind": "pharmacy",
+"lat": 31.9217203,
+"lon": 35.9562236,
+"name": "صيدلية اعمدة القدس"
+},
+{
+"osm": "node/13734688194",
+"kind": "pharmacy",
+"lat": 31.924522,
+"lon": 35.9514325,
+"name": "Waseem Pharmacy"
+},
+{
+"osm": "node/13734720281",
+"kind": "pharmacy",
+"lat": 31.9050355,
+"lon": 35.9627413,
+"name": "صيدلية ابن سينا"
+},
+{
+"osm": "node/13734735609",
+"kind": "pharmacy",
+"lat": 31.9265956,
+"lon": 35.9508946,
+"name": "صيدلية معين"
+},
+{
+"osm": "way/179095761",
+"kind": "hospital",
+"lat": 31.9536821,
+"lon": 35.9118579,
+"name": "Amman Hospital"
+},
+{
+"osm": "way/200222618",
+"kind": "fuel",
+"lat": 31.9328614,
+"lon": 35.9217413,
+"name": "Total"
+},
+{
+"osm": "way/200921049",
+"kind": "hospital",
+"lat": 31.9605509,
+"lon": 35.8997313,
+"name": "Jordan Hospital"
+},
+{
+"osm": "way/200945989",
+"kind": "hospital",
+"lat": 31.9518837,
+"lon": 35.9098041,
+"name": "Aqilah Hospital"
+},
+{
+"osm": "way/232959301",
+"kind": "hospital",
+"lat": 31.9548645,
+"lon": 35.9305444,
+"name": "Luzmilla Hospital"
+},
+{
+"osm": "way/238775002",
+"kind": "fuel",
+"lat": 32.0001488,
+"lon": 35.8738797,
+"name": "Total"
+},
+{
+"osm": "way/265136741",
+"kind": "fuel",
+"lat": 31.9595972,
+"lon": 35.8563624,
+"name": "Al Borj"
+},
+{
+"osm": "way/274372357",
+"kind": "hospital",
+"lat": 32.0170033,
+"lon": 35.8659108,
+"name": "Alesraa Hospital"
+},
+{
+"osm": "way/276753162",
+"kind": "hospital",
+"lat": 31.9596387,
+"lon": 35.8783355,
+"name": "Arab Medical Center"
+},
+{
+"osm": "way/309035017",
+"kind": "fuel",
+"lat": 32.0486088,
+"lon": 35.8901927,
+"name": "محطة ابو سويلم"
+},
+{
+"osm": "way/310759541",
+"kind": "hospital",
+"lat": 31.9352139,
+"lon": 35.9329868,
+"name": "Red Crescent Hospital"
+},
+{
+"osm": "way/310759913",
+"kind": "hospital",
+"lat": 31.9394194,
+"lon": 35.9406224,
+"name": "Al Bashir Hospital"
+},
+{
+"osm": "way/310784026",
+"kind": "hospital",
+"lat": 31.96635,
+"lon": 35.9114159,
+"name": "Al Mu'ashshir Hospital"
+},
+{
+"osm": "way/310787518",
+"kind": "hospital",
+"lat": 31.949454,
+"lon": 35.9222518,
+"name": "Malhas Hospital"
+},
+{
+"osm": "way/310801172",
+"kind": "hospital",
+"lat": 31.9518761,
+"lon": 35.9030699,
+"name": "Al Khalidi Hospital"
+},
+{
+"osm": "way/324839592",
+"kind": "fuel",
+"lat": 31.9960941,
+"lon": 36.0153096,
+"name": ""
+},
+{
+"osm": "way/325285398",
+"kind": "hospital",
+"lat": 31.9808235,
+"lon": 35.9896059,
+"name": "مستشفى ماركا العسكري"
+},
+{
+"osm": "way/325285407",
+"kind": "hospital",
+"lat": 31.9737065,
+"lon": 35.974101,
+"name": "مركز ماركا الصحي"
+},
+{
+"osm": "way/325883144",
+"kind": "hospital",
+"lat": 31.9699955,
+"lon": 35.8938615,
+"name": "Shmeisani Hospital"
+},
+{
+"osm": "way/379635450",
+"kind": "fuel",
+"lat": 31.9653528,
+"lon": 35.8823924,
+"name": ""
+},
+{
+"osm": "way/380007075",
+"kind": "hospital",
+"lat": 31.9775158,
+"lon": 35.8291772,
+"name": "King Hussein Medical City"
+},
+{
+"osm": "way/546637585",
+"kind": "hospital",
+"lat": 31.9541867,
+"lon": 35.9003706,
+"name": "Jabal Amman Hospital"
+},
+{
+"osm": "way/546639083",
+"kind": "hospital",
+"lat": 31.9673415,
+"lon": 35.9087409,
+"name": "Islamic Hospital"
+},
+{
+"osm": "way/589900332",
+"kind": "hospital",
+"lat": 31.9742599,
+"lon": 35.9069858,
+"name": "Palestine Hospital"
+},
+{
+"osm": "way/604006169",
+"kind": "hospital",
+"lat": 31.9774383,
+"lon": 35.9029865,
+"name": "مجمع العرقوسي الطبي"
+},
+{
+"osm": "way/604006186",
+"kind": "fuel",
+"lat": 31.9776608,
+"lon": 35.9032115,
+"name": ""
+},
+{
+"osm": "way/609348926",
+"kind": "fuel",
+"lat": 31.9523614,
+"lon": 35.9265695,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/612832217",
+"kind": "hospital",
+"lat": 31.9787447,
+"lon": 35.9004159,
+"name": "Specialty Hospital"
+},
+{
+"osm": "way/649543499",
+"kind": "fuel",
+"lat": 32.0213088,
+"lon": 35.8442943,
+"name": "Total"
+},
+{
+"osm": "way/650541514",
+"kind": "fuel",
+"lat": 32.0040139,
+"lon": 35.8318739,
+"name": ""
+},
+{
+"osm": "way/650666805",
+"kind": "fuel",
+"lat": 32.0234217,
+"lon": 35.8506665,
+"name": "Total"
+},
+{
+"osm": "way/650710600",
+"kind": "fuel",
+"lat": 32.0128791,
+"lon": 35.8413648,
+"name": ""
+},
+{
+"osm": "way/651682800",
+"kind": "fuel",
+"lat": 32.0124263,
+"lon": 35.8698365,
+"name": "Gulf"
+},
+{
+"osm": "way/651688311",
+"kind": "fuel",
+"lat": 31.995086,
+"lon": 35.857853,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/651688312",
+"kind": "fuel",
+"lat": 31.9952888,
+"lon": 35.8579909,
+"name": "Car Plaza"
+},
+{
+"osm": "way/651963586",
+"kind": "fuel",
+"lat": 32.027777,
+"lon": 35.8598355,
+"name": "Manaseer"
+},
+{
+"osm": "way/651970008",
+"kind": "fuel",
+"lat": 32.0363612,
+"lon": 35.832976,
+"name": ""
+},
+{
+"osm": "way/652202097",
+"kind": "fuel",
+"lat": 32.0207405,
+"lon": 35.8628923,
+"name": "Total"
+},
+{
+"osm": "way/652581999",
+"kind": "fuel",
+"lat": 32.0263685,
+"lon": 35.8363683,
+"name": ""
+},
+{
+"osm": "way/653047669",
+"kind": "fuel",
+"lat": 31.994905,
+"lon": 35.8299424,
+"name": "Khalda Gas Station"
+},
+{
+"osm": "way/653056421",
+"kind": "fuel",
+"lat": 31.996836,
+"lon": 35.837626,
+"name": "Gulf"
+},
+{
+"osm": "way/653329482",
+"kind": "fuel",
+"lat": 31.9924862,
+"lon": 35.8690344,
+"name": ""
+},
+{
+"osm": "way/653341258",
+"kind": "hospital",
+"lat": 31.9983358,
+"lon": 35.863684,
+"name": "Tla`a al ali hospital"
+},
+{
+"osm": "way/653916374",
+"kind": "fuel",
+"lat": 31.9901775,
+"lon": 35.9115232,
+"name": "Total"
+},
+{
+"osm": "way/654231461",
+"kind": "fuel",
+"lat": 31.9670932,
+"lon": 35.8884528,
+"name": ""
+},
+{
+"osm": "way/654724497",
+"kind": "fuel",
+"lat": 31.9627373,
+"lon": 35.8891208,
+"name": ""
+},
+{
+"osm": "way/657048418",
+"kind": "fuel",
+"lat": 31.9568625,
+"lon": 35.8806953,
+"name": "Total"
+},
+{
+"osm": "way/657048419",
+"kind": "fuel",
+"lat": 31.9566945,
+"lon": 35.8809049,
+"name": "Total"
+},
+{
+"osm": "way/659300927",
+"kind": "fuel",
+"lat": 31.9469189,
+"lon": 35.9089202,
+"name": ""
+},
+{
+"osm": "way/664621931",
+"kind": "fuel",
+"lat": 31.8654895,
+"lon": 35.8909256,
+"name": "Total"
+},
+{
+"osm": "way/672498077",
+"kind": "fuel",
+"lat": 31.9195328,
+"lon": 35.8585346,
+"name": "المناصير"
+},
+{
+"osm": "way/672927599",
+"kind": "fuel",
+"lat": 31.9733587,
+"lon": 35.8536144,
+"name": "Manaseer"
+},
+{
+"osm": "way/672938384",
+"kind": "fuel",
+"lat": 31.9714546,
+"lon": 35.8539091,
+"name": ""
+},
+{
+"osm": "way/675196260",
+"kind": "fuel",
+"lat": 31.9459508,
+"lon": 35.8445711,
+"name": "Manaseer Oil & Gas Bayader"
+},
+{
+"osm": "way/675196739",
+"kind": "fuel",
+"lat": 31.9403696,
+"lon": 35.8483188,
+"name": "Total"
+},
+{
+"osm": "way/675199522",
+"kind": "hospital",
+"lat": 31.9377598,
+"lon": 35.8641517,
+"name": "Avrillaud"
+},
+{
+"osm": "way/676245509",
+"kind": "fuel",
+"lat": 31.9592536,
+"lon": 35.8587078,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/676251778",
+"kind": "fuel",
+"lat": 31.9572456,
+"lon": 35.8501536,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/680336815",
+"kind": "fuel",
+"lat": 31.957238,
+"lon": 35.8476187,
+"name": "Gulf"
+},
+{
+"osm": "way/681987898",
+"kind": "fuel",
+"lat": 31.9424245,
+"lon": 35.8566012,
+"name": "Gulf"
+},
+{
+"osm": "way/684204232",
+"kind": "fuel",
+"lat": 32.0002738,
+"lon": 35.8741596,
+"name": "JoPetrol"
+},
+{
+"osm": "way/684437791",
+"kind": "fuel",
+"lat": 31.9097454,
+"lon": 35.9270597,
+"name": "Fast Stop"
+},
+{
+"osm": "way/684473752",
+"kind": "fuel",
+"lat": 31.9114857,
+"lon": 35.9211229,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/684476497",
+"kind": "fuel",
+"lat": 31.9025613,
+"lon": 35.8916478,
+"name": "Manaseer Gas Station محطة المناصير للزيوت والمحروقات"
+},
+{
+"osm": "way/684605174",
+"kind": "fuel",
+"lat": 32.0285852,
+"lon": 35.8695523,
+"name": "JoPetrol"
+},
+{
+"osm": "way/684617930",
+"kind": "fuel",
+"lat": 32.0308349,
+"lon": 35.8750113,
+"name": "Total"
+},
+{
+"osm": "way/684632842",
+"kind": "fuel",
+"lat": 32.0213703,
+"lon": 35.861108,
+"name": "Almanaseer"
+},
+{
+"osm": "way/684650927",
+"kind": "fuel",
+"lat": 32.0033493,
+"lon": 35.830499,
+"name": ""
+},
+{
+"osm": "way/685508023",
+"kind": "fuel",
+"lat": 31.9322818,
+"lon": 35.9120264,
+"name": "محطة جوبترول"
+},
+{
+"osm": "way/685750799",
+"kind": "fuel",
+"lat": 31.9020124,
+"lon": 35.8730954,
+"name": "Total"
+},
+{
+"osm": "way/685883004",
+"kind": "fuel",
+"lat": 31.9111912,
+"lon": 35.8966872,
+"name": "محطة المناصير"
+},
+{
+"osm": "way/685942165",
+"kind": "fuel",
+"lat": 31.9176495,
+"lon": 35.9024889,
+"name": "جوبترول"
+},
+{
+"osm": "way/685978583",
+"kind": "fuel",
+"lat": 31.9104362,
+"lon": 35.8910541,
+"name": ""
+},
+{
+"osm": "way/685978586",
+"kind": "fuel",
+"lat": 31.9127766,
+"lon": 35.8992753,
+"name": "محطة توتال"
+},
+{
+"osm": "way/686133106",
+"kind": "fuel",
+"lat": 31.922019,
+"lon": 35.8966021,
+"name": ""
+},
+{
+"osm": "way/686142342",
+"kind": "hospital",
+"lat": 31.9779309,
+"lon": 35.8545839,
+"name": ""
+},
+{
+"osm": "way/686893652",
+"kind": "fuel",
+"lat": 31.8883663,
+"lon": 35.858232,
+"name": "Manaseer Express"
+},
+{
+"osm": "way/687195452",
+"kind": "fuel",
+"lat": 31.9599652,
+"lon": 35.8617722,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/687238247",
+"kind": "fuel",
+"lat": 31.9571082,
+"lon": 35.8476256,
+"name": "Gulf"
+},
+{
+"osm": "way/687397924",
+"kind": "fuel",
+"lat": 31.9804522,
+"lon": 35.8355864,
+"name": "Total"
+},
+{
+"osm": "way/687600576",
+"kind": "fuel",
+"lat": 31.9195379,
+"lon": 35.8599783,
+"name": "Manaseer"
+},
+{
+"osm": "way/688192616",
+"kind": "fuel",
+"lat": 31.9759758,
+"lon": 35.8573395,
+"name": "Total"
+},
+{
+"osm": "way/688199694",
+"kind": "fuel",
+"lat": 31.9933988,
+"lon": 35.8606767,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/688211579",
+"kind": "fuel",
+"lat": 31.9859802,
+"lon": 35.8665555,
+"name": ""
+},
+{
+"osm": "way/688247019",
+"kind": "fuel",
+"lat": 31.9760058,
+"lon": 35.8478455,
+"name": ""
+},
+{
+"osm": "way/688479444",
+"kind": "fuel",
+"lat": 31.9624124,
+"lon": 35.8903199,
+"name": "Total"
+},
+{
+"osm": "way/688482862",
+"kind": "fuel",
+"lat": 31.9565032,
+"lon": 35.9131136,
+"name": "Total"
+},
+{
+"osm": "way/688483799",
+"kind": "fuel",
+"lat": 31.8722753,
+"lon": 35.8900369,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/688676187",
+"kind": "fuel",
+"lat": 31.9863947,
+"lon": 35.8778731,
+"name": ""
+},
+{
+"osm": "way/688712760",
+"kind": "fuel",
+"lat": 31.9768027,
+"lon": 35.8884499,
+"name": ""
+},
+{
+"osm": "way/688985298",
+"kind": "fuel",
+"lat": 31.9640867,
+"lon": 35.8886176,
+"name": ""
+},
+{
+"osm": "way/688990651",
+"kind": "fuel",
+"lat": 31.9892877,
+"lon": 35.9088702,
+"name": ""
+},
+{
+"osm": "way/689018726",
+"kind": "fuel",
+"lat": 31.9543087,
+"lon": 35.8862707,
+"name": "Total"
+},
+{
+"osm": "way/689170357",
+"kind": "fuel",
+"lat": 31.9677195,
+"lon": 35.8771241,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/689173671",
+"kind": "fuel",
+"lat": 31.9747675,
+"lon": 35.9079089,
+"name": ""
+},
+{
+"osm": "way/689213927",
+"kind": "fuel",
+"lat": 31.9654756,
+"lon": 35.8823583,
+"name": "Manaseer"
+},
+{
+"osm": "way/689655695",
+"kind": "fuel",
+"lat": 31.9876756,
+"lon": 35.9649507,
+"name": "Total"
+},
+{
+"osm": "way/689666721",
+"kind": "fuel",
+"lat": 31.9879151,
+"lon": 35.949732,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/689748053",
+"kind": "fuel",
+"lat": 31.9940767,
+"lon": 35.9214059,
+"name": "Total"
+},
+{
+"osm": "way/689982720",
+"kind": "fuel",
+"lat": 31.9524145,
+"lon": 35.9263746,
+"name": "Mobil"
+},
+{
+"osm": "way/690059665",
+"kind": "fuel",
+"lat": 31.9921852,
+"lon": 35.9362436,
+"name": "Manaseer Gas Station"
+},
+{
+"osm": "way/690223580",
+"kind": "fuel",
+"lat": 31.9977792,
+"lon": 35.9318135,
+"name": "Total"
+},
+{
+"osm": "way/690752923",
+"kind": "fuel",
+"lat": 31.9396048,
+"lon": 35.8556168,
+"name": "Total"
+},
+{
+"osm": "way/691241926",
+"kind": "fuel",
+"lat": 31.9267465,
+"lon": 35.9161359,
+"name": "JoPetrol"
+},
+{
+"osm": "way/691257307",
+"kind": "fuel",
+"lat": 31.9921109,
+"lon": 35.9853849,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/691304814",
+"kind": "fuel",
+"lat": 31.9933819,
+"lon": 35.9869172,
+"name": ""
+},
+{
+"osm": "way/691305765",
+"kind": "fuel",
+"lat": 31.9941678,
+"lon": 35.9928731,
+"name": ""
+},
+{
+"osm": "way/691454059",
+"kind": "fuel",
+"lat": 31.9999374,
+"lon": 35.9993968,
+"name": "Al Manaseer"
+},
+{
+"osm": "way/691731545",
+"kind": "fuel",
+"lat": 31.9878228,
+"lon": 35.9996038,
+"name": "Manaseer"
+},
+{
+"osm": "way/691999394",
+"kind": "fuel",
+"lat": 31.9949901,
+"lon": 35.8869414,
+"name": "Gulf"
+},
+{
+"osm": "way/699967981",
+"kind": "fuel",
+"lat": 31.9181222,
+"lon": 35.9388406,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/700153456",
+"kind": "fuel",
+"lat": 31.8895457,
+"lon": 35.9342393,
+"name": "محطة المناصير"
+},
+{
+"osm": "way/700153465",
+"kind": "fuel",
+"lat": 31.897005,
+"lon": 35.9379751,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/700162112",
+"kind": "fuel",
+"lat": 31.8724173,
+"lon": 35.9310097,
+"name": "Manaseer Express"
+},
+{
+"osm": "way/700356628",
+"kind": "fuel",
+"lat": 31.8624262,
+"lon": 35.9270629,
+"name": "Manaseer"
+},
+{
+"osm": "way/700430029",
+"kind": "fuel",
+"lat": 31.8607071,
+"lon": 35.8007911,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/700855395",
+"kind": "fuel",
+"lat": 31.8729691,
+"lon": 35.8381211,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/700862163",
+"kind": "fuel",
+"lat": 31.8795902,
+"lon": 35.8419745,
+"name": "Jo Petrol"
+},
+{
+"osm": "way/730882248",
+"kind": "fuel",
+"lat": 31.9247702,
+"lon": 35.9319333,
+"name": "محطة الينبوع لخدمات السيارات"
+},
+{
+"osm": "way/744873441",
+"kind": "hospital",
+"lat": 32.0069831,
+"lon": 35.8745423,
+"name": "Jordan University Hospital"
+},
+{
+"osm": "way/799510541",
+"kind": "fuel",
+"lat": 31.9329744,
+"lon": 35.9332162,
+"name": "محطة المصفاة"
+},
+{
+"osm": "way/906256314",
+"kind": "fuel",
+"lat": 31.953023,
+"lon": 35.9478464,
+"name": ""
+},
+{
+"osm": "way/906256315",
+"kind": "fuel",
+"lat": 31.9530463,
+"lon": 35.9481793,
+"name": ""
+},
+{
+"osm": "way/909658603",
+"kind": "fuel",
+"lat": 31.983546,
+"lon": 35.8933468,
+"name": "مندرين"
+},
+{
+"osm": "way/993434720",
+"kind": "fuel",
+"lat": 31.9629014,
+"lon": 35.9147199,
+"name": "Total"
+},
+{
+"osm": "way/993434734",
+"kind": "fuel",
+"lat": 31.9613831,
+"lon": 35.9152382,
+"name": ""
+},
+{
+"osm": "way/993442748",
+"kind": "fuel",
+"lat": 31.9166539,
+"lon": 35.8620757,
+"name": "جوبترول"
+},
+{
+"osm": "way/993442762",
+"kind": "fuel",
+"lat": 31.9251856,
+"lon": 35.8688033,
+"name": "Manaseer"
+},
+{
+"osm": "way/993453971",
+"kind": "fuel",
+"lat": 32.0056388,
+"lon": 35.8725211,
+"name": "Total"
+},
+{
+"osm": "way/996590849",
+"kind": "hospital",
+"lat": 32.0044692,
+"lon": 35.8765458,
+"name": "King Hussein Cancer Center"
+},
+{
+"osm": "way/1056837886",
+"kind": "fuel",
+"lat": 31.9723472,
+"lon": 35.8753266,
+"name": "Gas Station"
+},
+{
+"osm": "way/1217646926",
+"kind": "hospital",
+"lat": 31.8796524,
+"lon": 35.9211377,
+"name": "مركز صحي الطيبة"
+},
+{
+"osm": "way/1217647109",
+"kind": "hospital",
+"lat": 31.8814432,
+"lon": 35.9237239,
+"name": "مركز صحي وكالة الغوث"
+},
+{
+"osm": "way/1218398058",
+"kind": "hospital",
+"lat": 31.8767146,
+"lon": 35.9298502,
+"name": "مركز البراء الطبي"
+},
+{
+"osm": "way/1219095253",
+"kind": "hospital",
+"lat": 31.8917959,
+"lon": 35.9236674,
+"name": "مركز صحي الجويدة الحكومي"
+},
+{
+"osm": "way/1219095889",
+"kind": "fuel",
+"lat": 31.8952622,
+"lon": 35.9172274,
+"name": "محطة توتال الفرنسية"
+},
+{
+"osm": "way/1219793034",
+"kind": "fuel",
+"lat": 31.8674886,
+"lon": 35.9114667,
+"name": "كازية المناصير"
+},
+{
+"osm": "way/1219796989",
+"kind": "hospital",
+"lat": 31.870577,
+"lon": 35.9258046,
+"name": "مركز الإسراء الطبي"
+},
+{
+"osm": "way/1225890996",
+"kind": "hospital",
+"lat": 31.9510771,
+"lon": 35.9264417,
+"name": "الشفاء"
+},
+{
+"osm": "way/1267541396",
+"kind": "fuel",
+"lat": 31.9756884,
+"lon": 35.8468116,
+"name": ""
+},
+{
+"osm": "way/1328043329",
+"kind": "hospital",
+"lat": 31.9832879,
+"lon": 35.9386827,
+"name": "Prince Hamza Hospital"
+},
+{
+"osm": "way/1341608633",
+"kind": "hospital",
+"lat": 32.0010293,
+"lon": 35.9192604,
+"name": "AREA1 QUEEN ALYA"
+},
+{
+"osm": "way/1427678859",
+"kind": "fuel",
+"lat": 31.9233329,
+"lon": 35.8604194,
+"name": ""
+},
+{
+"osm": "way/1458496184",
+"kind": "hospital",
+"lat": 31.964183,
+"lon": 36.0102039,
+"name": ""
+},
+{
+"osm": "way/1499718835",
+"kind": "hospital",
+"lat": 31.935085,
+"lon": 35.9527101,
+"name": ""
+},
+{
+"osm": "way/1499894086",
+"kind": "fuel",
+"lat": 31.9243889,
+"lon": 35.9511045,
+"name": "Mohammad Alqhaiwi Gas Station"
+},
+{
+"osm": "way/1502983133",
+"kind": "fuel",
+"lat": 31.9385752,
+"lon": 35.9593398,
+"name": "Ten Bridges Gas Station"
+},
+{
+"osm": "way/1502983134",
+"kind": "fuel",
+"lat": 31.9370586,
+"lon": 35.9617291,
+"name": "الفنار للمحروقات"
+}
+]
+}

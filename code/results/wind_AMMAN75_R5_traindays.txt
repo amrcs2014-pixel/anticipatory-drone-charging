@@ -1,0 +1,19 @@
+AMMAN75_R5 | days 230..329 | strongest wind in the flying window, m/s: median 5.2, max 11.3
+
+A. plans and charging rule without wind in the model (rule: fastest)
+   no wind  : cost   2743.6, late/day 0.00
+   with wind: cost   2963.9, late/day 0.16, battery ran out in flight 0.92 times a day, on 60 of 100 days (60%)
+
+B. wind-aware plans (wind at the start of the day, 10% reserve), 100 days
+   rule         cost late/day out in flight/day days hit no option/day stations  swaps wait min
+   regret     2809.9     0.25             0.000        0          0.00      5.7    6.4     39.7
+   nearest    2801.3     0.13             0.000        0          0.00      8.9    3.1     13.5
+   fastest    2811.9     0.19             0.000        0          0.00      8.4    3.7      8.7
+   ceiling    2773.0     0.09             0.000        0          0.00      4.2    7.8     69.1
+   learned    2803.0     0.24             0.000        0          0.00      4.6    7.4     76.8
+
+   paired differences in cost (same day, same plan, same wind):
+   fastest  - regret  :     +2.0 ( +0.1%) [  -14.1,   +18.1] n.s.; better on 5, worse on 92
+   fastest  - nearest :    +10.6 ( +0.4%) [   -3.2,   +24.4] n.s.; better on 48, worse on 42
+   ceiling  - fastest :    -38.9 ( -1.4%) [  -52.3,   -25.4] significant; better on 100, worse on 0
+   learned  - fastest :     -8.9 ( -0.3%) [  -19.7,    +2.0] n.s.; better on 89, worse on 11

@@ -1,0 +1,42 @@
+Instance('RC100_R5', customers=100, stations=5) | ugv 1 | base rule fastest | train 120 days, margin chosen on 30, test 100 held-out days, 5 model fits
+collected 7179 labelled alternatives in 8s: 22% better than the base choice, 78% worse
+  round 1: +3867 rows from the learned policy's days
+  fit 0: margin 20, saving on validation days +245.4
+  fit 1: margin 20, saving on validation days +244.6
+  fit 2: margin 20, saving on validation days +245.6
+  fit 3: margin 20, saving on validation days +246.0
+  fit 4: margin 20, saving on validation days +244.9
+
+Held-out test, 100 days (learned = mean over 5 fits)
+rule              cost   +-95%  late
+regret         6405.59  214.86 10.55
+nearest        6020.80  189.26  8.64
+fastest        5675.81  197.61  6.69
+learned        5365.56  154.34  5.15
+rollout-all    5330.32  155.44  5.11
+
+Paired differences:
+  learned - fastest      mean  -310.25 ( -5.5%)  95% CI [ -458.82,  -161.68]  better 39, worse 18  -> significant at 5%
+  learned - nearest      mean  -655.23 (-10.9%)  95% CI [ -782.07,  -528.39]  better 84, worse 14  -> significant at 5%
+  learned - regret       mean -1040.02 (-16.2%)  95% CI [-1226.74,  -853.31]  better 82, worse 18  -> significant at 5%
+  nearest - regret       mean  -384.79 ( -6.0%)  95% CI [ -551.75,  -217.83]  better 59, worse 33  -> significant at 5%
+  rollout-all - fastest  mean  -345.49 ( -6.1%)  95% CI [ -446.85,  -244.14]  better 100, worse 0  -> significant at 5%
+
+Each fit separately, learned minus its base rule:
+  fit 0:  -305.01  [ -453.75,  -156.27]  changed 0.8 decisions a day
+  fit 1:  -305.93  [ -454.57,  -157.29]  changed 0.8 decisions a day
+  fit 2:  -302.25  [ -451.43,  -153.08]  changed 0.8 decisions a day
+  fit 3:  -314.25  [ -464.35,  -164.15]  changed 0.8 decisions a day
+  fit 4:  -323.81  [ -472.10,  -175.53]  changed 0.7 decisions a day
+
+Share of the rollout-all gain over the fastest rule recovered: 90% (310.3 of 345.5)
+
+Most important inputs (fit 0, share of total gain):
+  is_ugv                    37.2%
+  detour_minus_base         13.4%
+  time_of_day               10.6%
+  wait                       6.8%
+  time_minus_best            4.6%
+  remaining_all              3.8%
+  time_cost                  3.7%
+  drone_remaining            2.4%
